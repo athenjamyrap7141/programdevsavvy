@@ -1,0 +1,33 @@
+{
+  "name": "programdevsavvy",
+  "version": "1.0.2",
+  "description": "programdevsavvy",
+  "type": "module",
+  "main": "programdevsavvy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/athenjamyrap7141/programdevsavvy"
+  },
+  "website": "https://github.com/athenjamyrap7141/programdevsavvy.git",
+  "keywords": [
+    "programdevsavvy"
+  ],
+  "author": "athenjamyrap7141",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athenjamyrap7141/programdevsavvy/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/athenjamyrap7141/programdevsavvy#readme",
+  "dependencies": {
+    "codecraftwhisper": "1.0.2",
+    "devscriptgenius": "1.0.2",
+    "programscriptmaster": "1.0.2"
+  }
+}
